@@ -1,0 +1,56 @@
+header {
+    height: 50px;
+    background: #ffffff;
+    border-color: #cccccc;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+body {
+    
+}
+
+footer {
+    height: 50px;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+}
+
+.header-elements {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.my-name {
+    float: left;
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    text-align: center;
+    background: olivedrab;
+}
+
+.about {
+    float: right;
+}
+
+.portfolio {
+    float: right;
+}
+
+.contact {
+    float: right;
+}
+
+#main-content {
+    display: block;
+    clear: both;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+    width: 960px;
+    background: #ffffff;
+    border-color: #dddddd;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    
+}
