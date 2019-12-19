@@ -12,13 +12,13 @@ N/A
 
 ## Installation
 
-Simply name to my homepage!
+Simply navigate to my homepage hosted on [Github](https://sunnycoderdude.github.io/my-bio/)!
 
 ## Usage
 
-1. Click About to view my background information
-2. Click Portfolio to view a sampling of my programming work
-3. Click Contact to drop me a message
+1. Click About to view my background information.
+2. Click Portfolio to view a sampling of my programming work.
+3. Click Contact to drop me a message.
 
 ## License
 
